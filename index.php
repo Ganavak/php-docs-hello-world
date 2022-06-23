@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello Azure and JK!";
+echo "This is a test page of PHP!";
